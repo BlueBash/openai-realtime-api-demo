@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "s2s"
+version = "0.1.0"
+description = "WenSocket Based Voice Assistant"
+authors = ["Suwarna Shukla"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydub = "^0.25.1"
+sounddevice = "^0.5.1"
+numpy = "^2.1.2"
+websockets = "^13.1"
+websocket-client = "^1.8.0"
+pyaudio = "^0.2.14"
+streamlit = "^1.39.0"
+fastapi = "^0.115.4"
+uvicorn = "^0.32.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
