@@ -11,7 +11,6 @@ This project is a real-time speech-to-speech voice assistant built using OpenAI'
 - [OpenAI Realtime API Qualities](#openai-realtime-api-qualities)
 - [Project Structure](#project-structure)
 - [Logging and Debugging](#logging-and-debugging)
-- [License](#license)
 
 ---
 
